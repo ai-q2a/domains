@@ -47,4 +47,5 @@ D('is-an.app', NewRegistrar('none'), DnsProvider(NewDnsProvider('cloudflare')), 
   CNAME('shredmod', 'shredmod.github.io.', CF_PROXY_ON),
   CNAME('smp', 'yandao0313.github.io.'),
   CNAME('snapscript', 'cname.vercel-dns.com.'),
+  CNAME('ai-q2a', 'ghs.google.com.','wyb4yjof44zq', 'gv-kks4zkibpnybbo.dv.googlehosted.com.', CF_PROXY_ON),
 END)
